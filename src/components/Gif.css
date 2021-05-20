@@ -1,0 +1,8 @@
+.Gif {
+    border: 1px solid white;
+    border-radius: 50px;
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin: 20px;
+}
